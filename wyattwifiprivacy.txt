@@ -1,35 +1,56 @@
 Privacy Policy
 
+Last updated: September 29, 2026
+
 This website, Wyatt Wifi, is operated by Wyatt.
-If you have questions about this Privacy Policy, you may contact me at: wyattwifi7@gmail.com.
+
+If you have questions about this Privacy Policy or privacy practices related to this website, you may contact me at wyattwifi7@gmail.com.
 
 Information Collected
 
-This website itself does not intentionally collect personal information.
+This website does not intentionally collect personal information directly from visitors.
 
-The site is hosted by ByetHost, which may automatically collect basic technical information such as IP addresses for hosting, security, or operational purposes. I do not control how ByetHost handles this data.
+However, the website is hosted using GitHub Pages. GitHub states that when a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes. GitHub may also process other information in accordance with its own privacy practices.
+
+For more information about GitHub's privacy practices, please refer to GitHub's Privacy Statement.
 
 Cookies
 
-This website may use cookies that are required for basic functionality or provided by the hosting service.
+This website may use cookies or similar technologies that are necessary for basic website functionality.
+
+The website may also use analytics or similar technologies to understand general website usage and popularity. These technologies may collect information such as pages visited or other basic usage information.
 
 Use of Information
 
-Any information collected is used only to operate and maintain the website.
+Information processed in connection with this website may be used to:
+
+Operate, maintain, and secure the website.
+
+Understand general website usage and popularity.
+
+Identify and address technical problems.
+
+I do not intentionally collect personal information for advertising or sell personal information to third parties.
+
+Third-Party Services
+
+This website is hosted using GitHub Pages. Information collected or processed by GitHub is subject to GitHub's own privacy practices and policies.
+
+Other third-party services may be used on the website from time to time. Where applicable, those services may collect or process information according to their own privacy policies.
 
 Your Rights
 
-If you wish to request access to, correction of, or deletion of any personal data related to this website, you may contact me using the email above.
+If you believe that personal information relating to you has been collected through this website and you would like to request access, correction, or deletion, you may contact me at wyattwifi7@gmail.com.
 
+Depending on where you live, you may have additional privacy rights under applicable law.
 
-Children’s Information
-This website is intended for a general audience, including children. We do not intentionally collect personal information from children under 13. If you are a parent or guardian and believe that your child has provided personal information on this website, please contact us, and we will take appropriate steps to remove it.
+Children's Information
 
-Data Collected by ByetHost
-This website is hosted by ByetHost, which may automatically collect certain technical information, such as IP addresses and server logs, for purposes like website operation, security, and performance. This data is collected by ByetHost and is outside of our control. For more details, you can review ByetHost’s privacy policy.
-Changes
+This website is intended for a general audience and is not specifically directed toward children under 13.
 
-This Privacy Policy may be updated from time to time. Any changes will be posted on this page.
+I do not intentionally collect personal information from children under 13. If you believe that a child has provided personal information through this website, please contact me at wyattwifi7@gmail.com. If I learn that personal information from a child under 13 has been collected in circumstances requiring its deletion, I will take reasonable steps to delete it.
 
+Changes to This Policy
 
-And, yes, this was written by AI
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page, along with an updated "Last updated" date.
+Last updated Sep 29, 2026 A.D.
